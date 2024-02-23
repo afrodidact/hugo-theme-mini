@@ -33,13 +33,14 @@ markup:
     renderer:
       unsafe: true
 
-# Social links in footer, support github,twitter,stackoverflow,facebook
+# Social links in footer, support github,twitter,stackoverflow,facebook,instagram
 social:
   # e.g.
   github: your-github-link
   twitter: your-twitter-link
   stackoverflow: your-stackoverflow-link
   # facebook: your-facebook-link
+  # instagram: your-instagram-link
 
 
 # Site parameters
